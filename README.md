@@ -5,7 +5,7 @@
 - Configure a Flask API to use cookies.
 - Use the developer tools to inspect cookies.
 
-***
+****
 
 ## Key Vocab
 
